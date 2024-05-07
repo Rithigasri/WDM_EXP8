@@ -1,4 +1,4 @@
-# EXPERIMENT 08: WEB SCRAPING ON E COMMERCE PLATFORM USING BEAUTIFULSOUP Web Scraping On E-commerce platform using BeautifulSoup
+# EXPERIMENT 08: WEB SCRAPING ON E COMMERCE PLATFORM USING BEAUTIFULSOUP
 ## AIM:
 To perform Web Scraping on Amazon using (beautifulsoup) Python.
 ## DESCRIPTION: 
